@@ -275,5 +275,3 @@ class EmployManagementSystem
   }
 }
 
-/****************************** CODED BY ABHINAV DUBEY ************************/
-
